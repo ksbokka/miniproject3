@@ -8,7 +8,8 @@ This codebase has 2 modules.
 Go into each module: `mp3` and `mp3_backend` and follow the readme instructions on installation and starting up the codebase. 
 
 # Running Module
-Running Locally: `docker run -p 8080:8080 springio/gs-spring-boot-docker`
-
-# Example Endpoint
-http://localhost:8080/fhir/obsevation?lonicCode=72514-3
+Running Locally: 
+* `npm install http-server -g`
+* `http-server`
+* Navigate to the local host shown on the terminal
+* Click on the hyperlink on the webpage.
