@@ -1,0 +1,7 @@
+requests
+flask
+dash
+plotly
+statsmodels
+pandas
+requests
